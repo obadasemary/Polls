@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Firebase.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Polls.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-PollsTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-PollsUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>01689CDE37C39138B912AB2D5CD34E42</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>99AC64626C75FA67D1397B268564EC9D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B7AC9326D819482593FE118E915409D7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EAC7460DA6BB04D403F813C6AEEE25E8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
